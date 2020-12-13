@@ -16,7 +16,6 @@ int main() {
     cin >> b;
     cout << "c:";
     cin >> c;
-    if(a,b,c==)
     int d = -b;
     int k = 2 * a;
     int e = 4 * a * c;
